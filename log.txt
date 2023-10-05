@@ -1,0 +1,29 @@
+{"level":"info","msg":"AvitoApp Started","time":"2023-10-04T13:32:00+03:00"}
+{"level":"info","msg":"AvitoApp Shutting Down","time":"2023-10-04T13:32:21+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-04T13:32:21+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-04T13:32:22+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-04T13:49:07+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-04T13:49:07+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-04T13:49:08+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-04T13:53:53+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-04T13:53:53+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-04T13:53:54+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-04T13:58:57+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-04T13:58:57+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-04T13:58:57+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-04T14:25:33+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-04T14:25:33+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-04T14:25:34+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-04T15:09:10+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-04T15:09:10+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-05T11:08:07+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-05T11:21:15+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-05T11:21:15+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-05T11:28:16+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-05T11:29:30+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-05T11:29:31+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-05T11:50:10+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-05T11:50:10+03:00"}
+{"level":"info","msg":"CalendarApp Started","time":"2023-10-05T11:53:43+03:00"}
+{"level":"info","msg":"CalendarApp Shutting Down","time":"2023-10-05T11:54:33+03:00"}
+{"level":"fatal","msg":"error occured while running http server: http: Server closed","time":"2023-10-05T11:54:33+03:00"}
